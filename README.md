@@ -13,4 +13,5 @@ http://www.cs.ubc.ca/~murphyk/MLbook/
 
 http://www.quora.com/I-absolutely-love-artificial-intelligence-but-am-not-good-at-math-and-average-in-coding-should-I-continue/answer/Devendra-Kumar-Sahu
 
+http://www.iro.umontreal.ca/~bengioy/dlbook/
 ~~~
