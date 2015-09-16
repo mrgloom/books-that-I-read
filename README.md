@@ -6,9 +6,11 @@ Courses:
 
 ~~~
 
-TODO:
+TO LOOK AT:
 http://www.amazon.com/Mastering-Machine-Learning-With-scikit-learn/dp/1783988363
 
 http://www.cs.ubc.ca/~murphyk/MLbook/
+
+http://www.quora.com/I-absolutely-love-artificial-intelligence-but-am-not-good-at-math-and-average-in-coding-should-I-continue/answer/Devendra-Kumar-Sahu
 
 ~~~
