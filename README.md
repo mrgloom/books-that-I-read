@@ -21,5 +21,10 @@ http://www.iro.umontreal.ca/~bengioy/dlbook/
     Trevor Hastie and Robert Tibshirani and Jerome Friedman, "The Elements of Statistical Learning: Data Mining, Inference, and Prediction", 2009.
     Daphne Koller and Nir Friedman, "Probabilistic Graphical Models: Principles and Techniques", 2009.
     Kevin Murphy, "Machine Learning: A Probabilistic Approach", 2012.
+    
+    Richard Szeliski, "Computer Vision: Algorithms and Applications", 2010.
+    Simon Prince, "Computer Vision: Models, Learning, and Inference", 2012.
+    Gary Bradski and Adrian Kaehler, "Learning OpenCV", 2008.
+
 
 ~~~
