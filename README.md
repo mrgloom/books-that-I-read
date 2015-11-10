@@ -7,6 +7,9 @@ Courses:
 ~~~
 
 TO LOOK AT:
+
+https://github.com/rasbt/python-machine-learning-book
+
 http://www.amazon.com/Mastering-Machine-Learning-With-scikit-learn/dp/1783988363
 
 http://www.cs.ubc.ca/~murphyk/MLbook/
