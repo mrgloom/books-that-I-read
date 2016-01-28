@@ -7,6 +7,7 @@ Courses:
 ~~~
 
 TO LOOK AT:
+http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf
 
 https://github.com/rasbt/python-machine-learning-book
 
