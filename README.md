@@ -5,6 +5,9 @@ Just a list of books that I read with some small reviews.
 Courses:
 
 ~~~
+TODO:
+Introduction to Reinforcement Learning by David Silver
+http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 
 TO LOOK AT:
 http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf
